@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andy-sheng/npm-test.git"
+    "url": "git+https://github.com/magic-hehe/npm-test.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/andy-sheng/npm-test/issues"
+    "url": "https://github.com/magic-hehe/npm-test/issues"
   },
-  "homepage": "https://github.com/andy-sheng/npm-test#readme",
+  "homepage": "https://github.com/magic-hehe/npm-test#readme",
   "dependencies": {
     "grapheme-breaker": "^0.3.2",
     "hull.js": "^0.2.10",
